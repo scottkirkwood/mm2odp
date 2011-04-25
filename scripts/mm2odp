@@ -1,0 +1,4 @@
+#!python
+import mm2odp.mm2odp
+mm2odp.mm2odp.parse_command_line()
+

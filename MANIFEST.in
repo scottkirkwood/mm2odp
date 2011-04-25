@@ -1,0 +1,8 @@
+include mm2odp/*.py
+include CHANGELOG.txt
+include TODO.txt
+include setup.py
+include ez_setup.py
+include doc
+exclude .svn
+prune .svn

@@ -1,0 +1,5 @@
+Things That Need to be Done
+---------------------------
+- Images
+- Builds per line
+- Slide transitions
